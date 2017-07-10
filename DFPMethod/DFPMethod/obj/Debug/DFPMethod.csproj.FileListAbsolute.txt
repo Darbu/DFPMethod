@@ -1,0 +1,16 @@
+D:\projects\DFPMethod\DFPMethod\bin\Debug\DFPMethod.exe.config
+D:\projects\DFPMethod\DFPMethod\bin\Debug\DFPMethod.exe
+D:\projects\DFPMethod\DFPMethod\bin\Debug\DFPMethod.pdb
+D:\projects\DFPMethod\DFPMethod\bin\Debug\MathNet.Numerics.dll
+D:\projects\DFPMethod\DFPMethod\bin\Debug\MathNet.Numerics.xml
+D:\projects\DFPMethod\DFPMethod\obj\Debug\DFPMethod.csprojResolveAssemblyReference.cache
+D:\projects\DFPMethod\DFPMethod\obj\Debug\DFPMethod.exe
+D:\projects\DFPMethod\DFPMethod\obj\Debug\DFPMethod.pdb
+D:\Projects\DFPMethod\DFPMethod\DFPMethod\bin\Debug\DFPMethod.exe.config
+D:\Projects\DFPMethod\DFPMethod\DFPMethod\bin\Debug\DFPMethod.exe
+D:\Projects\DFPMethod\DFPMethod\DFPMethod\bin\Debug\DFPMethod.pdb
+D:\Projects\DFPMethod\DFPMethod\DFPMethod\bin\Debug\MathNet.Numerics.dll
+D:\Projects\DFPMethod\DFPMethod\DFPMethod\bin\Debug\MathNet.Numerics.xml
+D:\Projects\DFPMethod\DFPMethod\DFPMethod\obj\Debug\DFPMethod.exe
+D:\Projects\DFPMethod\DFPMethod\DFPMethod\obj\Debug\DFPMethod.pdb
+D:\Projects\DFPMethod\DFPMethod\DFPMethod\obj\Debug\DFPMethod.csprojResolveAssemblyReference.cache
